@@ -20,6 +20,15 @@ Personal Repository for Labs and Assignments related to Tensorflow: Advanced Tec
     - GradCAM
 - Course 4: Generative Deep Learning with TensorFlow
   - Week 1: Neural Style Transfer
+    - Visual interpretations of CNNs
+    - NST model architecture
   - Week 2: AutoEncoders
+    - Basic AutoEncoders with Dense Layers
+    - Convolutional AutoEncoders
+    - Image Denoising
   - Week 3: Tuning AutoEncoders
-  - Week 4: GAN
+    - Variational AutoEncoders (VAE)
+    - Kullback–Leibler divergence
+  - Week 4: Generative Adversarial Networks (GAN)
+    - Intro to GANs
+    - Deep Convolutional GANs (DCGAN)
